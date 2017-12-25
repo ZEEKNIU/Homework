@@ -9,7 +9,7 @@ void main()
 	{
 		b=a/10;
 		a=b;
-		c++;            //利用c值判断数的类型
+		c++;            //脌没脫脙c脰碌脜脨露脧脢媒碌脛脌脿脨脥
 	}
 	switch(c)
 	{
